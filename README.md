@@ -5,6 +5,11 @@ A JavaScript video application that is designed for investigators to closely ana
 
 ![screenshot_001](src/media/textures/screenshots/001.PNG)  
 
+---
+
+USE APP: https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Truth_Detection/CATopalian_JavaScript_Truth_Detection.html  
+
+---
 
 ### How to Download this App
 1. Click the green Code Button on this github page
