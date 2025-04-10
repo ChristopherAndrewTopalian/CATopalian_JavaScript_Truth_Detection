@@ -3,7 +3,7 @@ A JavaScript video application that is designed for investigators to closely ana
 
 ---
 
-![screenshot_001](src/media/textures/screenshots/001.png)  
+![screenshot_001](src/media/textures/screenshots/001.PNG)  
 
 
 ### How to Download this App
