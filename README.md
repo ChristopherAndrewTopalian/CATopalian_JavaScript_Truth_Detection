@@ -15,4 +15,5 @@ A JavaScript video application that is designed for investigators to closely ana
 
 ---
 
-Hapy Scripting :-)
+Happy Scripting :-)
+
